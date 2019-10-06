@@ -2,152 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a7eab-19ff-4c6e-b091-2554f8ac50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/06cad730-e85d-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/10599660-e85d-11e9-a7f8-f3274a31e62b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/33ab0cf0-e84b-11e9-a0c0-ebe047660458.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/417dd940-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/69c21380-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/725f94e0-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/84a06ee0-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/9e2cdb60-e848-11e9-a0c0-ebe047660458.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/a5ee6490-e85c-11e9-82eb-13e57fcd83de.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/a8c349c0-e84c-11e9-ba9e-0f40550c1444.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/aee52980-e85c-11e9-82eb-13e57fcd83de.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/e3e355c0-e85d-11e9-91bc-457938f75d0d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ed27baf0-e85c-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/ff4814a0-e85c-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/preferences.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/accepts/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/array-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/array-flatten/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/busboy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/busboy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/content-disposition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/content-disposition/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/content-type/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/cookie-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/cookie-signature/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/core-util-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/depd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/depd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/destroy/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/dicer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/dicer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ee-first/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/encodeurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/encodeurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/escape-html/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/etag/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/express-fileupload/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/express-fileupload/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/finalhandler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/finalhandler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/forwarded/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/forwarded/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/fresh/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/http-errors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/inherits/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/ipaddr.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ipaddr.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/isarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/media-typer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/media-typer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/merge-descriptors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/merge-descriptors/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/methods/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/methods/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/negotiator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/on-finished/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/parseurl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/proxy-addr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/proxy-addr/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/range-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/range-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/send/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/send/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/send/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/serve-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/serve-static/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/setprototypeof/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/statuses/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/streamsearch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/streamsearch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/toidentifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/toidentifier/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/type-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/type-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/unpipe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/utils-merge/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/backend-connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/backend-connect.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/src/backend-connect.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JSX" />
         <option value="JavaScript File" />
+        <option value="JSON" />
+        <option value="CSS File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>File uploade</find>
-      <find>File uploaded</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/frontend/public/index.html" />
-        <option value="$PROJECT_DIR$/frontend/src/Components/Upload/Upload..jsx" />
-        <option value="$PROJECT_DIR$/frontend/src/Components/Extras/FileUploadButton..jsx" />
-        <option value="$PROJECT_DIR$/frontend/src/Components/Extras/FileUploadButton.jsx" />
-        <option value="$PROJECT_DIR$/frontend/src/App.js" />
-        <option value="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" />
-        <option value="$PROJECT_DIR$/frontend/src/backend-connect.js" />
-        <option value="$PROJECT_DIR$/backend/index.js" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
+  <component name="ProjectId" id="1RqEptn9hvtjUJZKlt7oVCqPgxr" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="uploadr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uploadr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadr" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uploadr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadr" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="uploadr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="uploadr" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Nextcloud/git/lettuce_restapi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ig4tool_frontend" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -175,90 +128,22 @@
       <option name="presentableId" value="Default" />
       <updated>1570375325312</updated>
       <workItem from="1570375326401" duration="5673000" />
+      <workItem from="1570386412921" duration="7687000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5673000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32901832" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32901832" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="92" selection-start-line="6" selection-start-column="92" selection-end-line="6" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/Components/Extras/FileUploadButton.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/backend-connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,8 +1,18 @@
 version: '3'
 services:
-  uploadr:
+  frontend:
     build: .
     ports:
       - "80:80"
     volumes:
-      - ./files:/usr/share/nginx/html/files
+      - files:/usr/share/nginx/html/files
+    links:
+      - backend
+  backend:
+    build: backend
+    ports:
+      - "8080:8080"
+    volumes:
+      - files:/usr/src/app/files
+volumes:
+  files:

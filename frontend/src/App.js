@@ -5,7 +5,6 @@ import Upload from "./Components/Upload/Upload";
 class App extends Component {
     constructor(props) {
         super(props);
-
     }
 
     render() {

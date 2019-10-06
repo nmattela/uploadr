@@ -1,7 +1,11 @@
-FROM nginx
+FROM node as build-deps
+WORKDIR /usr/src/app
+COPY frontend/package.json frontend/yarn.lock ./
+RUN yarn
+COPY frontend ./
+RUN yarn build
 
-#COPY ./files /usr/share/nginx/html/files
-
+FROM nginx:alpine
+COPY --from=build-deps /usr/src/app/build /usr/share/nginx/html
 EXPOSE 80
-
 CMD ["nginx", "-g", "daemon off;"]
