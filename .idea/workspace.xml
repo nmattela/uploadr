@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a7eab-19ff-4c6e-b091-2554f8ac50ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/backend/files/36b144e0-e847-11e9-a9b9-c5ae173cf127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/files/86ed2a90-e848-11e9-a9b9-c5ae173cf127.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/backend-connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/backend-connect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/06cad730-e85d-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/10599660-e85d-11e9-a7f8-f3274a31e62b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/33ab0cf0-e84b-11e9-a0c0-ebe047660458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/417dd940-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/69c21380-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/725f94e0-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/84a06ee0-e85d-11e9-b0d5-fdbf4d9561a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/9e2cdb60-e848-11e9-a0c0-ebe047660458.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/a5ee6490-e85c-11e9-82eb-13e57fcd83de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/a8c349c0-e84c-11e9-ba9e-0f40550c1444.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/aee52980-e85c-11e9-82eb-13e57fcd83de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/e3e355c0-e85d-11e9-91bc-457938f75d0d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ed27baf0-e85c-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/ff4814a0-e85c-11e9-a7f8-f3274a31e62b.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/backend-connect.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
@@ -49,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
@@ -164,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570375325312</updated>
-      <workItem from="1570375326401" duration="5409000" />
+      <workItem from="1570375326401" duration="5673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5409000" />
+    <option name="totallyTimeSpent" value="5673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="26" width="1920" height="1054" extended-state="6" />
@@ -236,17 +246,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/backend-connect.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/backend-connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
