@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import {DropzoneArea} from 'material-ui-dropzone'
 import {Button, Fab, Icon} from '@material-ui/core'
+import {uploadFile} from "../../backend-connect";
 
 class Upload extends Component {
     constructor(props) {
@@ -13,7 +14,7 @@ class Upload extends Component {
 
     onFile = async files => {
         if(files.length!==0) {
-
+            await uploadFile(files[0]);
         }
     };
 
