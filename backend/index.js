@@ -9,7 +9,7 @@ const app = express();
 app.use(fileUpload());
 app.use(cors());
 
-const port = 8080;
+const port = 21798;
 
 app.post('/upload', (req, res) => {
     //Check if a file has been uploaded

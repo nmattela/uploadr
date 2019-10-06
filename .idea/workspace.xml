@@ -2,77 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a7eab-19ff-4c6e-b091-2554f8ac50ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preferences.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/accepts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/array-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/array-flatten/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/body-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/busboy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/busboy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/bytes/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/content-disposition/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/content-disposition/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/content-type/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/content-type/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/cookie-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/cookie-signature/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/cookie/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/core-util-is/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/debug/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/depd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/depd/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/destroy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/destroy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/dicer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/dicer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/ee-first/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ee-first/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/encodeurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/encodeurl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/escape-html/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/escape-html/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/etag/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/etag/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/express-fileupload/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/express-fileupload/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/express/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/finalhandler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/finalhandler/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/forwarded/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/forwarded/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/fresh/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/fresh/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/http-errors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/http-errors/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/iconv-lite/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/inherits/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/inherits/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/ipaddr.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ipaddr.js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/isarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/isarray/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/media-typer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/media-typer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/merge-descriptors/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/merge-descriptors/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/methods/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/methods/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime-db/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/mime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/mime/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/ms/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/negotiator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/negotiator/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/on-finished/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/on-finished/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/parseurl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/parseurl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/path-to-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/path-to-regexp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/proxy-addr/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/proxy-addr/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/qs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/range-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/range-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/raw-body/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/readable-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/safer-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/send/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/send/node_modules/ms/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/send/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/send/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/serve-static/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/serve-static/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/setprototypeof/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/setprototypeof/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/statuses/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/statuses/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/streamsearch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/streamsearch/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/string_decoder/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/toidentifier/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/toidentifier/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/type-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/type-is/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/unpipe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/utils-merge/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/node_modules/uuid/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/backend-connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/backend-connect.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570375325312</updated>
       <workItem from="1570375326401" duration="5673000" />
-      <workItem from="1570386412921" duration="7687000" />
+      <workItem from="1570386412921" duration="8370000" />
     </task>
     <servers />
   </component>
