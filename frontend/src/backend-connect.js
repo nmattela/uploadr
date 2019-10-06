@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BACKEND_URL = "http://localhost:8080";
+const BACKEND_URL = "http://localhost:21798";
 
 export async function uploadFile(file) {
     let formData = new FormData();

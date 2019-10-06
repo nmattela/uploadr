@@ -1,8 +1,8 @@
 FROM node as build-deps
 WORKDIR /usr/src/app
-COPY frontend/package.json frontend/yarn.lock ./
+COPY package.json yarn.lock ./
 RUN yarn
-COPY frontend ./
+COPY . ./
 RUN yarn build
 
 FROM nginx:alpine
