@@ -2,17 +2,18 @@ version: '3'
 services:
   frontend:
     build: frontend
-    ports:
-      - "61019:80"
     volumes:
+      - /app/node_modules
       - files:/usr/share/nginx/html/files
-    links:
-      - backend
   backend:
     build: backend
-    ports:
-      - "21798:21798"
     volumes:
-      - files:/usr/src/app/files
+      - /app/node_modules
+      - files:/app/files
+  proxy:
+    build: proxy
+    restart: always
+    ports:
+      - '3050:80'
 volumes:
   files:

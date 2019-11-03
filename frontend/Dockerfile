@@ -1,11 +1,11 @@
 FROM node as build-deps
-WORKDIR /usr/src/app
+WORKDIR /app
 COPY package.json yarn.lock ./
 RUN yarn
-COPY . ./
+COPY . .
 RUN yarn build
 
 FROM nginx:alpine
-COPY --from=build-deps /usr/src/app/build /usr/share/nginx/html
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
+EXPOSE 3000
+COPY ./default.conf /etc/nginx/conf.d/default.conf
+COPY --from=build-deps /app/build /usr/share/nginx/html
