@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827a7eab-19ff-4c6e-b091-2554f8ac50ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/default.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Components/Upload/Upload.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/backend-connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/backend-connect.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +32,15 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ig4tool_frontend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../on_the_fly" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -44,15 +51,15 @@
       <recent name="$PROJECT_DIR$/frontend" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -67,7 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1570375325312</updated>
       <workItem from="1570375326401" duration="5673000" />
-      <workItem from="1570386412921" duration="9501000" />
+      <workItem from="1570386412921" duration="10166000" />
+      <workItem from="1570565273669" duration="11000" />
+      <workItem from="1578682302846" duration="2789000" />
     </task>
     <servers />
   </component>
@@ -79,10 +88,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="214" width="800" height="675" key="#Deployment" timestamp="1578683198989">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="214" width="800" height="675" key="#Deployment/1920.0.1920.1080/0.26.1920.1054/3840.0.1920.1080@1920.0.1920.1080" timestamp="1578683198989" />
+    <state x="2658" y="309" width="424" height="482" key="FileChooserDialogImpl" timestamp="1578684353353">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2658" y="309" width="424" height="482" key="FileChooserDialogImpl/1920.0.1920.1080/0.26.1920.1054/3840.0.1920.1080@1920.0.1920.1080" timestamp="1578684353353" />
+    <state x="2528" y="284" width="704" height="538" key="find.popup" timestamp="1578684262568">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2528" y="284" width="704" height="538" key="find.popup/1920.0.1920.1080/0.26.1920.1054/3840.0.1920.1080@1920.0.1920.1080" timestamp="1578684262568" />
+    <state x="2776" y="285" width="197" height="531" key="ftp.server.browser" timestamp="1578683150826">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2776" y="285" width="197" height="531" key="ftp.server.browser/1920.0.1920.1080/0.26.1920.1054/3840.0.1920.1080@1920.0.1920.1080" timestamp="1578683150826" />
   </component>
 </project>

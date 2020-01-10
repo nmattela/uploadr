@@ -36,6 +36,7 @@ class Upload extends Component {
             <DropzoneArea
                 dropzoneText={<p className={this.state.error ? 'errorParagraph' : ''}>{this.state.text}</p>}
                 filesLimit={1}
+                maxFileSize={Number.MAX_SAFE_INTEGER}
                 onChange={files => this.onFile(files)}
             />
         );

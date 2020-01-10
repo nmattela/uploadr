@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BACKEND_URL = "http://localhost:21798";
+const BACKEND_URL = "https://uploadr.mattelaer.dev/api";
 
 export async function uploadFile(file) {
     let formData = new FormData();
